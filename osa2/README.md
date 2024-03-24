@@ -1,4 +1,4 @@
-# Osa 2 - Reactin perusteet
+# Osa 2 - Palvelimen kanssa tapahtuva kommunikointi
 
 Projektit esittelevät nykyaikaista verkkosovelluskehitystä JavaScriptin avulla. Pääpaino on React-kirjastolla toteutetuissa yksisivuisissa sovelluksissa sekä niitä tukevalla Node.js:llä toteutetuilla REST- ja GraphQL-liitännöillä.
 
