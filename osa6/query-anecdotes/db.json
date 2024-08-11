@@ -1,0 +1,39 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it causes pain, do it more frequently",
+      "id": "37145",
+      "votes": 19
+    },
+    {
+      "content": "Adding more people to a delayed software project only delays it further!",
+      "id": "31149",
+      "votes": 10
+    },
+    {
+      "content": "The first 90% of the code takes up the first 90% of the development time... The remaining 10% of the code takes up the other 90% of the development time.",
+      "id": "29581",
+      "votes": 3
+    },
+    {
+      "content": "Any novice can write code that a computer can understand. Great programmers write code that humans can understand.",
+      "id": "16975",
+      "votes": 1
+    },
+    {
+      "content": "Early optimization is the root of all evil.",
+      "id": "15170",
+      "votes": 1
+    },
+    {
+      "content": "Debugging is twice as difficult as writing the code initially. Therefore, if you write the code as cleverly as possible, you are, by definition, not clever enough to debug it.",
+      "id": "78312",
+      "votes": 0
+    },
+    {
+      "content": "Creating a new anecdote is successful",
+      "votes": 0,
+      "id": "lsvWuRb"
+    }
+  ]
+}
